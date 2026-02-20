@@ -1,9 +1,10 @@
 {
-  "name" : "Better Nationalization",
+  "name" : "Better Nationalization (1.9.8 - 1.11.1)",
 	"id" : "",
   "version" : "",
   "supported_game_version" : "",
   "short_description" : "",
+  "picture": "thumbnail.png",
   "tags" : [],
   "relationships" : [],
   "game_custom_data" : {

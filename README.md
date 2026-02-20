@@ -6,7 +6,7 @@
 
 ## Supported Version
 
-1.9.8 - 1.11.1
+1.12.0 - 1.12.3
 
 ## Supported Language
 
@@ -24,4 +24,4 @@ Turkish
 
 ## Finally
 
-If there is any problem, please let me know
+If there is any problem, please let me know.

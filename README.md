@@ -2,7 +2,7 @@
     Better Nationalization
 </h1>
 
-**Better Nationalization** is a Victoria 3 mod that removes infamy for war goal of forcing nationalization and can nationalize even if you've entacted Laissez Faire.
+**Better Nationalization** is a Victoria 3 mod that removes infamy for war goal of forcing nationalization and enables nationalization even if you've entacted Laissez Faire.
 
 ## Supported Version
 

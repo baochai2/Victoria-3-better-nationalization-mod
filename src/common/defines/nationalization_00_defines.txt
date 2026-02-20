@@ -1,3 +1,0 @@
-﻿NDiplomacy = {
-    WAR_GOAL_INFAMY_FORCE_NATIONALIZATION = 0.0
-}

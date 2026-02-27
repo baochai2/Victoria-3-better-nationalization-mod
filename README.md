@@ -16,7 +16,7 @@
 
 ## Supported Version
 
-1.12.0 - 1.12.3
+1.12.0 - 1.12.4
 
 ## Supported Language
 

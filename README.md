@@ -7,11 +7,8 @@
 2. enable nationalization even if you've entacted Laissez Faire.
 
 <p align="center" >
-<img src="https://i.imgur.com/0IWZDRO.png"/>
-</p>
-
-<p align="center" >
-<img src="https://i.imgur.com/YR94LsD.png"/>
+  <img src="https://i.imgur.com/CNH2YHy.png" width="45%" height="250"/>
+  <img src="https://i.imgur.com/YR94LsD.png" width="45%" height="250"/>
 </p>
 
 ## Supported Version

@@ -13,7 +13,7 @@
 
 ## Supported Version
 
-1.12.0 - 1.12.4
+1.12.0 - 1.12.5
 
 ## Supported Language
 

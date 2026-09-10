@@ -5,11 +5,9 @@
 **Better Nationalization** is a Victoria 3 mod that removes infamy for war goal of forcing nationalization and enables nationalization even if you've entacted Laissez Faire.
 
 ## Supported Version
-
 1.9.8 - 1.11.1
 
 ## Supported Language
-
 Brazilian Portuguese<br>
 English<br>
 French<br>
@@ -23,5 +21,4 @@ Spanish<br>
 Turkish
 
 ## Finally
-
-If there is any problem, please let me know
+If you encounter a problem, please let me know.
